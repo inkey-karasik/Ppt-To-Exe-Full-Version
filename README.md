@@ -240,4 +240,4 @@ This repository serves as the official landing page for PPT to EXE. The software
 **Get the most recent version of PPT to EXE today!**
 
 ---
-**Last updated:** 2026-10-17 17:35:12 UTC
+**Last updated:** 2026-10-17 19:46:52 UTC
